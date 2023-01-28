@@ -1,0 +1,74 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.topo{
+    text-align: center;
+    border: solid 10px grey;
+    border-radius: 5%;
+    margin: 90px;
+    padding: 5px 50px 0px 50px 
+    text-decoration: none;
+    }
+.topo div h1{
+    color:rgba(212, 212, 83, 0.76);
+    font-size: 80px;
+    }
+.topo div img{
+    height: 500px;
+    width: 1000px;
+}
+
+.texto {
+    text-align: justify; 
+    border: solid 10px grey;
+    border-radius: 5%;
+    margin: 90px;
+    padding: 5px 50px 0px 50px 
+    }
+.texto div h2, h3 {
+    font-size: 50px;
+}
+.texto div p {
+    font-size: 35px;
+}
+.texto div img{
+    height: 500px;
+    width: 1000px;
+}
+
+.div, h1{
+    text-align: center;
+    color: rgba(212, 212, 83, 0.76);
+    font-size: 80px;
+}
+
+.cards div{
+    text-align: center;
+}
+.cards div, h2  img{
+    background-color: black;
+    height: 420px;
+    width: 310px;
+    border: solid 1px white;
+    margin: 45px;
+    float:left;
+    padding: 20px;
+    box-shadow: 2px 2px 30px;
+    border-radius: 15px;
+    transition: 0.2S;
+}
+.cards div p{
+     text-align: justify;
+
+}
+.cards div img{
+    height: 200px;
+    width: 200px;
+}
+.cards div:hover{
+    box-shadow: none;
+    background-color: black;
+}

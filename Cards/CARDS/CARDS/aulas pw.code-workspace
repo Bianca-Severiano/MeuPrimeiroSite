@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "CARDS",
+			"path": "."
+		},
+		{
+			"name": "programação web",
+			"path": "..\\programação web"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "programação web"
+	}
+}
